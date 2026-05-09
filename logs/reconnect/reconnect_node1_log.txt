@@ -1,0 +1,57 @@
+[2026-04-28T11:04:35.632546] ========================================================================
+[2026-04-28T11:04:35.632653] AttackLab - Wi-Fi Reconnect
+[2026-04-28T11:04:35.632682] Run ID        : RUN-20260428-110435-d1b0
+[2026-04-28T11:04:35.632703] Run directory : /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-110435-d1b0
+[2026-04-28T11:04:35.632721] Target alias  : Node1
+[2026-04-28T11:04:35.632737] ========================================================================
+[2026-04-28T11:04:35.636013] Manifest written to: /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-110435-d1b0/manifest.yaml
+[2026-04-28T11:04:37.150879] Serial capture started: /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-110435-d1b0/serial_output.txt
+[2026-04-28T11:04:37.151111] ========================================================================
+[2026-04-28T11:04:37.151175] AttackLab - Wi-Fi Reconnect
+[2026-04-28T11:04:37.151229] Target alias  : Node1
+[2026-04-28T11:04:37.151265] Target host   : 10.42.0.46
+[2026-04-28T11:04:37.151322] Disruption mode : external_command
+[2026-04-28T11:04:37.151373] Start command   : nmcli connection down attacklab-ap
+[2026-04-28T11:04:37.151423] Stop command    : nmcli connection up attacklab-ap
+[2026-04-28T11:04:37.151478] ========================================================================
+[2026-04-28T11:04:37.151673] PHASE=init TYPE=attack_init MESSAGE=Initializing Wi-Fi reconnect controller. EXTRA={'target_alias': 'Node1', 'target_host': '10.42.0.46'}
+[2026-04-28T11:04:37.151801] PHASE=baseline TYPE=phase_start MESSAGE=Starting baseline phase. EXTRA={}
+[2026-04-28T11:04:37.167632] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 14.1}
+[2026-04-28T11:04:38.171719] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 2.53}
+[2026-04-28T11:04:39.178349] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 5.14}
+[2026-04-28T11:04:40.206888] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 26.9}
+[2026-04-28T11:04:41.227676] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 18.8}
+[2026-04-28T11:04:42.250771] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 21.1}
+[2026-04-28T11:04:43.275571] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 22.7}
+[2026-04-28T11:04:44.307409] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 29.7}
+[2026-04-28T11:04:45.324607] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 15.2}
+[2026-04-28T11:04:46.346032] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 19.3}
+[2026-04-28T11:04:47.371067] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 22.9}
+[2026-04-28T11:04:48.398957] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 26.2}
+[2026-04-28T11:04:49.419733] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 19.2}
+[2026-04-28T11:04:50.491229] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 69.9}
+[2026-04-28T11:04:51.501800] PHASE=baseline TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 8.99}
+[2026-04-28T11:04:52.502212] PHASE=attack TYPE=attack_start MESSAGE=Starting automatic wireless disruption. EXTRA={}
+[2026-04-28T11:04:54.502830] PHASE=attack TYPE=phase_start MESSAGE=Observing disconnect during disruption window. EXTRA={'max_seconds': 25.0}
+[2026-04-28T11:04:55.504882] PHASE=attack TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': False, 'latency_ms': 1001.776}
+[2026-04-28T11:04:57.507001] PHASE=attack TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': False, 'latency_ms': 1001.782}
+[2026-04-28T11:04:59.509045] PHASE=attack TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': False, 'latency_ms': 1001.722}
+[2026-04-28T11:04:59.509150] PHASE=attack TYPE=attack_stop MESSAGE=Stopping automatic wireless disruption. EXTRA={}
+[2026-04-28T11:05:02.078416] PHASE=recovery TYPE=phase_start MESSAGE=Observing recovery until stability is restored or safety max is reached. EXTRA={'required_consecutive_successes': 5, 'recovery_safety_max_seconds': 900.0, 'recovery_max_recovery_seconds': 120.0}
+[2026-04-28T11:05:03.079951] PHASE=recovery TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': False, 'latency_ms': 1001.342}
+[2026-04-28T11:05:05.081669] PHASE=recovery TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': False, 'latency_ms': 1001.395}
+[2026-04-28T11:05:07.083944] PHASE=recovery TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': False, 'latency_ms': 1001.858}
+[2026-04-28T11:05:09.086155] PHASE=recovery TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': False, 'latency_ms': 1001.881}
+[2026-04-28T11:05:11.088434] PHASE=recovery TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': False, 'latency_ms': 1001.939}
+[2026-04-28T11:05:13.090599] PHASE=recovery TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': False, 'latency_ms': 1001.826}
+[2026-04-28T11:05:14.099200] PHASE=recovery TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 6.41}
+[2026-04-28T11:05:15.108012] PHASE=recovery TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 6.4}
+[2026-04-28T11:05:16.130468] PHASE=recovery TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 20.3}
+[2026-04-28T11:05:17.144606] PHASE=recovery TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 12.0}
+[2026-04-28T11:05:18.166800] PHASE=recovery TYPE=reachability_sample MESSAGE=Target reachability sampled. EXTRA={'success': True, 'latency_ms': 20.1}
+[2026-04-28T11:05:18.166978] PHASE=stop TYPE=attack_complete MESSAGE=Wi-Fi reconnect scenario completed. EXTRA={'final_status': 'PASS', 'final_reason': 'Disconnect observed and stable recovery measured. time_to_recovery_seconds=16.089'}
+[2026-04-28T11:05:18.942122] Serial capture stopped.
+[2026-04-28T11:05:19.417217] Plots generated successfully.
+[2026-04-28T11:05:19.417318] Summary written to: /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-110435-d1b0/wifi_reconnect_summary.json
+[2026-04-28T11:05:19.417342] Checksums written to: /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-110435-d1b0/checksums.sha256
+[2026-04-28T11:05:19.417362] Run completed with status: PASS

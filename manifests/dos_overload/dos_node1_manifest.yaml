@@ -1,0 +1,51 @@
+run_id: RUN-20260428-110548-cb8d
+attack_name: wifi_dos
+attack_title: Wi-Fi DoS
+attack_version: 2.3.0
+scenario: wifi_dos
+transport: wifi
+created_at: '2026-04-28T11:05:48.825095'
+target:
+  alias: Node1
+  host: 10.42.0.46
+  target_type: esp32
+  reachability_method: ping
+  ping_count_per_check: 1
+  ping_timeout_seconds: 2
+  stable_success_threshold: 0.7
+testcases:
+- TC-021
+testcase_mapping:
+  jama_folder: WiFi/DoS
+  expected_metric: time_to_recovery_seconds
+  acceptance_rule: Baseline stable, observable attack effect, and stable post-attack
+    recovery observed
+metadata:
+  description: ESP32-based AttackLab node
+  notes: Primary Wi-Fi test target
+  environment: attacklab_home_env
+  author: AttackLab
+serial:
+  enabled: true
+  port: /dev/ttyUSB0
+  baudrate: 115200
+  timeout_seconds: 0.5
+  startup_delay_seconds: 1.5
+  stop_grace_seconds: 0.5
+  filename: serial_output.txt
+attack:
+  mode: command
+  interface: wlan1
+  start_command: sudo -n hping3 --icmp --flood -I {interface} {target_host}
+  stop_command: sudo -n pkill -f 'hping3 --icmp --flood -I {interface} {target_host}'
+timing:
+  baseline_sample_count: 15
+  attack_sample_count: 20
+  sample_interval_seconds: 1.0
+  startup_grace_seconds: 2.0
+  stop_grace_seconds: 2.0
+  recovery_timeout_seconds: 60.0
+  required_consecutive_recovery_successes: 5
+wifi:
+  ping_count: 1
+  ping_timeout_seconds: 1.0

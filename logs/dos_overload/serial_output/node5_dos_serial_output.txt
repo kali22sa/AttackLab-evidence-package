@@ -1,0 +1,371 @@
+I (129122) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (129122) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (129122) NODE5_FLEET_CONTROL: TMP117: 21.19 C
+I (129122) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1862 A P=5.680 W
+ROW,128649,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.19,1,1,0x40,4.785,1.1862,5.680
+I (129142) NODE5_FLEET_CONTROL: ---
+I (130152) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (130152) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (130152) NODE5_FLEET_CONTROL: TMP117: 21.19 C
+I (130152) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1875 A P=5.680 W
+ROW,129679,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.19,1,1,0x40,4.785,1.1875,5.680
+I (130172) NODE5_FLEET_CONTROL: ---
+I (131182) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (131182) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (131182) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (131182) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1862 A P=5.670 W
+ROW,130709,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.785,1.1862,5.670
+I (131202) NODE5_FLEET_CONTROL: ---
+I (132212) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (132212) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (132212) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (132212) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1875 A P=5.680 W
+ROW,131739,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.785,1.1875,5.680
+I (132232) NODE5_FLEET_CONTROL: ---
+I (133242) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (133242) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (133242) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (133242) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1888 A P=5.700 W
+ROW,132769,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.786,1.1888,5.700
+I (133262) NODE5_FLEET_CONTROL: ---
+I (134272) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (134272) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (134272) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (134272) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1862 A P=5.670 W
+ROW,133799,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.785,1.1862,5.670
+I (134292) NODE5_FLEET_CONTROL: ---
+I (135302) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (135302) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (135302) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (135302) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1875 A P=5.680 W
+ROW,134829,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.785,1.1875,5.680
+I (135322) NODE5_FLEET_CONTROL: ---
+I (136332) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (136332) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (136332) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (136332) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1875 A P=5.680 W
+ROW,135859,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.786,1.1875,5.680
+I (136352) NODE5_FLEET_CONTROL: ---
+I (137362) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (137362) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (137362) NODE5_FLEET_CONTROL: TMP117: 21.21 C
+I (137362) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1875 A P=5.680 W
+ROW,136889,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.21,1,1,0x40,4.785,1.1875,5.680
+I (137382) NODE5_FLEET_CONTROL: ---
+I (138392) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (138392) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (138392) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (138392) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1875 A P=5.680 W
+ROW,137919,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.785,1.1875,5.680
+I (138412) NODE5_FLEET_CONTROL: ---
+I (139422) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (139422) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (139422) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (139422) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1888 A P=5.680 W
+ROW,138949,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.785,1.1888,5.680
+I (139442) NODE5_FLEET_CONTROL: ---
+I (140452) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (140452) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (140452) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (140452) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1888 A P=5.680 W
+ROW,139979,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.785,1.1888,5.680
+I (140472) NODE5_FLEET_CONTROL: ---
+I (141482) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (141482) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (141482) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (141482) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1888 A P=5.700 W
+ROW,141009,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.785,1.1888,5.700
+I (141502) NODE5_FLEET_CONTROL: ---
+I (142512) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (142512) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (142512) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (142512) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1875 A P=5.680 W
+ROW,142039,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.785,1.1875,5.680
+I (142532) NODE5_FLEET_CONTROL: ---
+I (143542) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (143542) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (143542) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (143542) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1900 A P=5.700 W
+ROW,143069,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.785,1.1900,5.700
+I (143562) NODE5_FLEET_CONTROL: ---
+I (144572) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (144572) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (144572) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (144572) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1888 A P=5.700 W
+ROW,144099,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.785,1.1888,5.700
+I (144592) NODE5_FLEET_CONTROL: ---
+I (145612) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (145622) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (145622) NODE5_FLEET_CONTROL: TMP117: 21.20 C
+I (145632) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1875 A P=5.700 W
+ROW,145132,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.20,1,1,0x40,4.786,1.1875,5.700
+I (145652) NODE5_FLEET_CONTROL: ---
+I (146662) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (146682) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (146682) NODE5_FLEET_CONTROL: TMP117: 21.21 C
+I (146682) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1888 A P=5.700 W
+ROW,146180,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.21,1,1,0x40,4.785,1.1888,5.700
+I (146732) NODE5_FLEET_CONTROL: ---
+I (147772) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (147772) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (147772) NODE5_FLEET_CONTROL: TMP117: 21.21 C
+I (147792) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1888 A P=5.680 W
+ROW,147275,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.21,1,1,0x40,4.785,1.1888,5.680
+I (147812) NODE5_FLEET_CONTROL: ---
+I (148832) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (148882) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (148892) NODE5_FLEET_CONTROL: TMP117: 21.21 C
+I (148892) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1862 A P=5.680 W
+ROW,148351,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.21,1,1,0x40,4.786,1.1862,5.680
+I (148932) NODE5_FLEET_CONTROL: ---
+I (149942) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (149952) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (149952) NODE5_FLEET_CONTROL: TMP117: 21.22 C
+I (149962) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1862 A P=5.670 W
+ROW,149459,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.22,1,1,0x40,4.785,1.1862,5.670
+I (150012) NODE5_FLEET_CONTROL: ---
+I (151032) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (151042) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (151042) NODE5_FLEET_CONTROL: TMP117: 21.22 C
+I (151042) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1888 A P=5.680 W
+ROW,150540,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.22,1,1,0x40,4.786,1.1888,5.680
+I (151082) NODE5_FLEET_CONTROL: ---
+I (152112) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (152122) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (152122) NODE5_FLEET_CONTROL: TMP117: 21.23 C
+I (152132) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1888 A P=5.680 W
+ROW,151621,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.23,1,1,0x40,4.785,1.1888,5.680
+I (152162) NODE5_FLEET_CONTROL: ---
+I (153202) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (153202) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (153212) NODE5_FLEET_CONTROL: TMP117: 21.23 C
+I (153212) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1875 A P=5.700 W
+ROW,152702,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.23,1,1,0x40,4.787,1.1875,5.700
+I (153232) NODE5_FLEET_CONTROL: ---
+I (154252) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (154262) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (154262) NODE5_FLEET_CONTROL: TMP117: 21.23 C
+I (154262) NODE5_FLEET_CONTROL: INA260: V=4.785 V I=1.1888 A P=5.700 W
+ROW,153759,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.23,1,1,0x40,4.785,1.1888,5.700
+I (154302) NODE5_FLEET_CONTROL: ---
+I (155342) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (155362) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (155362) NODE5_FLEET_CONTROL: TMP117: 21.23 C
+I (155362) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1875 A P=5.700 W
+ROW,154835,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.23,1,1,0x40,4.786,1.1875,5.700
+I (155422) NODE5_FLEET_CONTROL: ---
+I (156492) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (156502) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (156502) NODE5_FLEET_CONTROL: TMP117: 21.23 C
+I (156512) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1888 A P=5.680 W
+ROW,155961,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.23,1,1,0x40,4.786,1.1888,5.680
+I (156532) NODE5_FLEET_CONTROL: ---
+I (157542) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (157572) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (157582) NODE5_FLEET_CONTROL: TMP117: 21.23 C
+I (157602) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1875 A P=5.700 W
+ROW,157060,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.23,1,1,0x40,4.786,1.1875,5.700
+I (157632) NODE5_FLEET_CONTROL: ---
+I (158662) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (158662) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (158662) NODE5_FLEET_CONTROL: TMP117: 21.24 C
+I (158702) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1875 A P=5.680 W
+ROW,158170,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.24,1,1,0x40,4.787,1.1875,5.680
+I (158732) NODE5_FLEET_CONTROL: ---
+I (159742) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (159752) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (159752) NODE5_FLEET_CONTROL: TMP117: 21.24 C
+I (159772) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1875 A P=5.680 W
+ROW,159262,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.24,1,1,0x40,4.786,1.1875,5.680
+I (159802) NODE5_FLEET_CONTROL: ---
+I (160822) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (160832) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (160832) NODE5_FLEET_CONTROL: TMP117: 21.24 C
+I (160832) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1875 A P=5.680 W
+ROW,160332,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.24,1,1,0x40,4.787,1.1875,5.680
+I (160872) NODE5_FLEET_CONTROL: ---
+I (161892) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (161892) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (161892) NODE5_FLEET_CONTROL: TMP117: 21.23 C
+I (161912) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1888 A P=5.700 W
+ROW,161400,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.23,1,1,0x40,4.786,1.1888,5.700
+I (161922) NODE5_FLEET_CONTROL: ---
+I (162962) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (162962) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (162982) NODE5_FLEET_CONTROL: TMP117: 21.23 C
+I (163022) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1875 A P=5.700 W
+ROW,162464,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.23,1,1,0x40,4.786,1.1875,5.700
+I (163062) NODE5_FLEET_CONTROL: ---
+I (164092) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (164132) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (164142) NODE5_FLEET_CONTROL: TMP117: 21.25 C
+I (164142) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1900 A P=5.680 W
+ROW,163600,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.25,1,1,0x40,4.786,1.1900,5.680
+I (164182) NODE5_FLEET_CONTROL: ---
+I (164902) wifi:<ba-add>idx:0 (ifx:0, 00:c0:ca:b9:a0:30), tid:0, ssn:532, winSize:64
+I (164902) wifi:<ba-del>idx:0, tid:0
+I (164912) wifi:<ba-add>idx:0 (ifx:0, 00:c0:ca:b9:a0:30), tid:0, ssn:156, winSize:64
+I (165182) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (165182) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (165182) NODE5_FLEET_CONTROL: TMP117: 21.24 C
+I (165182) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1888 A P=5.700 W
+ROW,164709,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.24,1,1,0x40,4.786,1.1888,5.700
+I (165202) NODE5_FLEET_CONTROL: ---
+I (166232) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (166232) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (166232) NODE5_FLEET_CONTROL: TMP117: 21.24 C
+I (166242) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1888 A P=5.680 W
+ROW,165740,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.24,1,1,0x40,4.786,1.1888,5.680
+I (166272) NODE5_FLEET_CONTROL: ---
+I (167282) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (167282) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (167282) NODE5_FLEET_CONTROL: TMP117: 21.23 C
+I (167292) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1875 A P=5.680 W
+ROW,166799,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.23,1,1,0x40,4.786,1.1875,5.680
+I (167312) NODE5_FLEET_CONTROL: ---
+I (168342) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (168342) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (168342) NODE5_FLEET_CONTROL: TMP117: 21.24 C
+I (168352) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1888 A P=5.700 W
+ROW,167851,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.24,1,1,0x40,4.786,1.1888,5.700
+I (168372) NODE5_FLEET_CONTROL: ---
+I (169382) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (169392) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (169392) NODE5_FLEET_CONTROL: TMP117: 21.24 C
+I (169392) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1875 A P=5.700 W
+ROW,168900,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.24,1,1,0x40,4.787,1.1875,5.700
+I (169422) NODE5_FLEET_CONTROL: ---
+I (170432) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (170442) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (170442) NODE5_FLEET_CONTROL: TMP117: 21.23 C
+I (170462) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1900 A P=5.700 W
+ROW,169950,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.23,1,1,0x40,4.786,1.1900,5.700
+I (170482) NODE5_FLEET_CONTROL: ---
+I (171512) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (171522) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (171522) NODE5_FLEET_CONTROL: TMP117: 21.24 C
+I (171522) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1888 A P=5.680 W
+ROW,171020,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.24,1,1,0x40,4.787,1.1888,5.680
+I (171542) NODE5_FLEET_CONTROL: ---
+I (172542) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (172552) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (172552) NODE5_FLEET_CONTROL: TMP117: 21.25 C
+I (172552) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1900 A P=5.680 W
+ROW,172070,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.25,1,1,0x40,4.786,1.1900,5.680
+I (172582) NODE5_FLEET_CONTROL: ---
+I (173612) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (173632) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (173642) NODE5_FLEET_CONTROL: TMP117: 21.25 C
+I (173642) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1862 A P=5.680 W
+ROW,173130,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.25,1,1,0x40,4.786,1.1862,5.680
+I (173672) NODE5_FLEET_CONTROL: ---
+I (174692) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (174692) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (174692) NODE5_FLEET_CONTROL: TMP117: 21.26 C
+I (174702) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1900 A P=5.700 W
+ROW,174202,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.26,1,1,0x40,4.787,1.1900,5.700
+I (174722) NODE5_FLEET_CONTROL: ---
+I (175732) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (175742) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (175752) NODE5_FLEET_CONTROL: TMP117: 21.27 C
+I (175752) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1875 A P=5.680 W
+ROW,175259,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.27,1,1,0x40,4.787,1.1875,5.680
+I (175792) NODE5_FLEET_CONTROL: ---
+I (176822) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (176822) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (176832) NODE5_FLEET_CONTROL: TMP117: 21.27 C
+I (176832) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1900 A P=5.700 W
+ROW,176321,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.27,1,1,0x40,4.787,1.1900,5.700
+I (176852) NODE5_FLEET_CONTROL: ---
+I (177882) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (177882) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (177882) NODE5_FLEET_CONTROL: TMP117: 21.27 C
+I (177902) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1875 A P=5.680 W
+ROW,177391,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.27,1,1,0x40,4.786,1.1875,5.680
+I (177912) NODE5_FLEET_CONTROL: ---
+I (178932) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (178932) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (178932) NODE5_FLEET_CONTROL: TMP117: 21.26 C
+I (178962) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1875 A P=5.680 W
+ROW,178450,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.26,1,1,0x40,4.787,1.1875,5.680
+I (178992) NODE5_FLEET_CONTROL: ---
+I (180012) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (180012) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (180022) NODE5_FLEET_CONTROL: TMP117: 21.27 C
+I (180022) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1875 A P=5.700 W
+ROW,179520,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.27,1,1,0x40,4.787,1.1875,5.700
+I (180042) NODE5_FLEET_CONTROL: ---
+I (181052) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (181062) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (181062) NODE5_FLEET_CONTROL: TMP117: 21.27 C
+I (181072) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1888 A P=5.700 W
+ROW,180570,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.27,1,1,0x40,4.786,1.1888,5.700
+I (181092) NODE5_FLEET_CONTROL: ---
+I (182112) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (182132) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (182132) NODE5_FLEET_CONTROL: TMP117: 21.28 C
+I (182142) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1875 A P=5.680 W
+ROW,181631,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.28,1,1,0x40,4.786,1.1875,5.680
+I (182162) NODE5_FLEET_CONTROL: ---
+I (183162) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (183182) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (183182) NODE5_FLEET_CONTROL: TMP117: 21.28 C
+I (183192) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1888 A P=5.700 W
+ROW,182690,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.28,1,1,0x40,4.787,1.1888,5.700
+I (183202) NODE5_FLEET_CONTROL: ---
+I (184212) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (184222) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (184222) NODE5_FLEET_CONTROL: TMP117: 21.29 C
+I (184232) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1888 A P=5.700 W
+ROW,183730,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.29,1,1,0x40,4.787,1.1888,5.700
+I (184252) NODE5_FLEET_CONTROL: ---
+I (185272) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (185272) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (185282) NODE5_FLEET_CONTROL: TMP117: 21.29 C
+I (185282) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1888 A P=5.700 W
+ROW,184783,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.29,1,1,0x40,4.787,1.1888,5.700
+I (185322) NODE5_FLEET_CONTROL: ---
+I (186362) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (186372) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (186372) NODE5_FLEET_CONTROL: TMP117: 21.28 C
+I (186382) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1888 A P=5.700 W
+ROW,185849,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.28,1,1,0x40,4.786,1.1888,5.700
+I (186402) NODE5_FLEET_CONTROL: ---
+I (187412) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (187412) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (187412) NODE5_FLEET_CONTROL: TMP117: 21.29 C
+I (187412) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1875 A P=5.680 W
+ROW,186939,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.29,1,1,0x40,4.787,1.1875,5.680
+I (187432) NODE5_FLEET_CONTROL: ---
+I (188442) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (188442) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (188442) NODE5_FLEET_CONTROL: TMP117: 21.29 C
+I (188442) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1888 A P=5.700 W
+ROW,187969,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.29,1,1,0x40,4.787,1.1888,5.700
+I (188462) NODE5_FLEET_CONTROL: ---
+I (189472) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (189472) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (189472) NODE5_FLEET_CONTROL: TMP117: 21.27 C
+I (189472) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1888 A P=5.680 W
+ROW,188999,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.27,1,1,0x40,4.786,1.1888,5.680
+I (189492) NODE5_FLEET_CONTROL: ---
+I (190502) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (190502) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (190502) NODE5_FLEET_CONTROL: TMP117: 21.27 C
+I (190502) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1862 A P=5.680 W
+ROW,190029,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.27,1,1,0x40,4.787,1.1862,5.680
+I (190522) NODE5_FLEET_CONTROL: ---
+I (191532) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (191532) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (191532) NODE5_FLEET_CONTROL: TMP117: 21.28 C
+I (191532) NODE5_FLEET_CONTROL: INA260: V=4.786 V I=1.1888 A P=5.700 W
+ROW,191059,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.28,1,1,0x40,4.786,1.1888,5.700
+I (191552) NODE5_FLEET_CONTROL: ---
+I (192562) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (192562) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled
+I (192562) NODE5_FLEET_CONTROL: TMP117: 21.27 C
+I (192562) NODE5_FLEET_CONTROL: INA260: V=4.787 V I=1.1888 A P=5.700 W
+ROW,192089,node5_fleet_control,node5_fleet_control_v3_wifi_only_serialctrl,baseline,1,1,10.42.0.50,0,disabled,1,1,21.27,1,1,0x40,4.787,1.1888,5.700
+I (192582) NODE5_FLEET_CONTROL: ---
+I (193592) NODE5_FLEET_CONTROL: Wi-Fi: connected, IP=10.42.0.50
+W (193592) NODE5_FLEET_CONTROL: BLE: advertising inactive, name=disabled

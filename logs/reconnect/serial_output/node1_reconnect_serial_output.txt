@@ -1,0 +1,280 @@
+I (4120749) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4120749) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4120749) NODE1_BASELINE_I2C: TMP117: 23.26 C
+I (4120749) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1463 A, P=5.360 W
+ROW,4120273,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.26,1,1,0x40,4.679,1.1463,5.360
+I (4120769) NODE1_BASELINE_I2C: ---
+I (4121779) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4121779) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4121779) NODE1_BASELINE_I2C: TMP117: 23.26 C
+I (4121779) NODE1_BASELINE_I2C: INA260: V=4.677 V, I=1.1475 A, P=5.380 W
+ROW,4121303,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.26,1,1,0x40,4.677,1.1475,5.380
+I (4121799) NODE1_BASELINE_I2C: ---
+I (4122809) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4122809) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4122809) NODE1_BASELINE_I2C: TMP117: 23.26 C
+I (4122809) NODE1_BASELINE_I2C: INA260: V=4.682 V, I=1.1363 A, P=5.320 W
+ROW,4122333,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.26,1,1,0x40,4.682,1.1363,5.320
+I (4122829) NODE1_BASELINE_I2C: ---
+I (4123839) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4123839) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4123839) NODE1_BASELINE_I2C: TMP117: 23.26 C
+I (4123839) NODE1_BASELINE_I2C: INA260: V=4.681 V, I=1.1363 A, P=5.320 W
+ROW,4123363,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.26,1,1,0x40,4.681,1.1363,5.320
+I (4123859) NODE1_BASELINE_I2C: ---
+I (4124869) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4124869) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4124869) NODE1_BASELINE_I2C: TMP117: 23.26 C
+I (4124869) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1375 A, P=5.320 W
+ROW,4124393,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.26,1,1,0x40,4.680,1.1375,5.320
+I (4124889) NODE1_BASELINE_I2C: ---
+I (4125899) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4125899) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4125899) NODE1_BASELINE_I2C: TMP117: 23.26 C
+I (4125899) NODE1_BASELINE_I2C: INA260: V=4.682 V, I=1.1375 A, P=5.320 W
+ROW,4125423,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.26,1,1,0x40,4.682,1.1375,5.320
+I (4125919) NODE1_BASELINE_I2C: ---
+I (4126929) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4126929) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4126929) NODE1_BASELINE_I2C: TMP117: 23.26 C
+I (4126929) NODE1_BASELINE_I2C: INA260: V=4.681 V, I=1.1375 A, P=5.320 W
+ROW,4126453,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.26,1,1,0x40,4.681,1.1375,5.320
+I (4126949) NODE1_BASELINE_I2C: ---
+I (4127959) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4127959) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4127959) NODE1_BASELINE_I2C: TMP117: 23.26 C
+I (4127959) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1387 A, P=5.320 W
+ROW,4127483,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.26,1,1,0x40,4.679,1.1387,5.320
+I (4127979) NODE1_BASELINE_I2C: ---
+I (4128989) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4128989) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4128989) NODE1_BASELINE_I2C: TMP117: 23.26 C
+I (4128989) NODE1_BASELINE_I2C: INA260: V=4.681 V, I=1.1387 A, P=5.320 W
+ROW,4128513,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.26,1,1,0x40,4.681,1.1387,5.320
+I (4129009) NODE1_BASELINE_I2C: ---
+I (4130019) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4130019) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4130019) NODE1_BASELINE_I2C: TMP117: 23.26 C
+I (4130019) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1375 A, P=5.320 W
+ROW,4129543,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.26,1,1,0x40,4.680,1.1375,5.320
+I (4130039) NODE1_BASELINE_I2C: ---
+I (4131049) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4131049) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4131049) NODE1_BASELINE_I2C: TMP117: 23.26 C
+I (4131049) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1387 A, P=5.320 W
+ROW,4130573,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.26,1,1,0x40,4.680,1.1387,5.320
+I (4131069) NODE1_BASELINE_I2C: ---
+I (4132079) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4132079) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4132079) NODE1_BASELINE_I2C: TMP117: 23.24 C
+I (4132079) NODE1_BASELINE_I2C: INA260: V=4.681 V, I=1.1387 A, P=5.320 W
+ROW,4131603,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.24,1,1,0x40,4.681,1.1387,5.320
+I (4132099) NODE1_BASELINE_I2C: ---
+I (4133109) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4133109) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4133109) NODE1_BASELINE_I2C: TMP117: 23.24 C
+I (4133109) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1387 A, P=5.320 W
+ROW,4132633,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.24,1,1,0x40,4.680,1.1387,5.320
+I (4133129) NODE1_BASELINE_I2C: ---
+I (4134139) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4134139) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4134139) NODE1_BASELINE_I2C: TMP117: 23.24 C
+I (4134139) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1387 A, P=5.320 W
+ROW,4133663,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.24,1,1,0x40,4.680,1.1387,5.320
+I (4134169) NODE1_BASELINE_I2C: ---
+I (4135169) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4135169) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4135169) NODE1_BASELINE_I2C: TMP117: 23.25 C
+I (4135169) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1400 A, P=5.340 W
+ROW,4134693,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.25,1,1,0x40,4.680,1.1400,5.340
+I (4135189) NODE1_BASELINE_I2C: ---
+I (4136199) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4136199) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4136199) NODE1_BASELINE_I2C: TMP117: 23.24 C
+I (4136199) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1400 A, P=5.320 W
+ROW,4135723,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.24,1,1,0x40,4.679,1.1400,5.320
+I (4136219) NODE1_BASELINE_I2C: ---
+I (4137229) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4137229) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4137229) NODE1_BASELINE_I2C: TMP117: 23.25 C
+I (4137229) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1400 A, P=5.340 W
+ROW,4136753,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.25,1,1,0x40,4.680,1.1400,5.340
+I (4137249) NODE1_BASELINE_I2C: ---
+I (4138259) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4138259) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4138259) NODE1_BASELINE_I2C: TMP117: 23.25 C
+I (4138259) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1387 A, P=5.320 W
+ROW,4137783,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.25,1,1,0x40,4.680,1.1387,5.320
+I (4138279) NODE1_BASELINE_I2C: ---
+I (4139289) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4139289) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4139289) NODE1_BASELINE_I2C: TMP117: 23.25 C
+I (4139289) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1400 A, P=5.340 W
+ROW,4138813,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.25,1,1,0x40,4.680,1.1400,5.340
+I (4139309) NODE1_BASELINE_I2C: ---
+I (4140319) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4140319) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4140319) NODE1_BASELINE_I2C: TMP117: 23.25 C
+I (4140319) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1400 A, P=5.320 W
+ROW,4139843,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.25,1,1,0x40,4.679,1.1400,5.320
+I (4140339) NODE1_BASELINE_I2C: ---
+I (4141349) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4141349) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4141349) NODE1_BASELINE_I2C: TMP117: 23.24 C
+I (4141349) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1413 A, P=5.340 W
+ROW,4140873,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.24,1,1,0x40,4.679,1.1413,5.340
+I (4141369) NODE1_BASELINE_I2C: ---
+I (4142379) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4142379) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4142379) NODE1_BASELINE_I2C: TMP117: 23.24 C
+I (4142379) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1425 A, P=5.350 W
+ROW,4141903,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.24,1,1,0x40,4.679,1.1425,5.350
+I (4142399) NODE1_BASELINE_I2C: ---
+I (4143129) wifi:bcn_timeout,ap_probe_send_start
+I (4143409) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4143409) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4143409) NODE1_BASELINE_I2C: TMP117: 23.24 C
+I (4143409) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1413 A, P=5.340 W
+ROW,4142933,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.24,1,1,0x40,4.680,1.1413,5.340
+I (4143429) NODE1_BASELINE_I2C: ---
+I (4144439) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4144439) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4144439) NODE1_BASELINE_I2C: TMP117: 23.24 C
+I (4144439) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1425 A, P=5.350 W
+ROW,4143963,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.24,1,1,0x40,4.680,1.1425,5.350
+I (4144459) NODE1_BASELINE_I2C: ---
+I (4144849) wifi:starting SA query procedure with AP(00:c0:ca:b9:a0:30)
+I (4144849) wifi:Send SA Query req with transaction id d93e
+I (4145049) wifi:Send SA Query req with transaction id d5cc
+I (4145249) wifi:Send SA Query req with transaction id d8d1
+I (4145449) wifi:Send SA Query req with transaction id 9452
+I (4145469) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4145469) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4145469) NODE1_BASELINE_I2C: TMP117: 23.24 C
+I (4145469) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1400 A, P=5.340 W
+ROW,4144993,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.24,1,1,0x40,4.679,1.1400,5.340
+I (4145489) NODE1_BASELINE_I2C: ---
+I (4145649) wifi:Send SA Query req with transaction id d13c
+I (4145849) wifi:Send SA Query req with transaction id eb93
+I (4145879) wifi:No response to 6 SA Queries, reset connection sending disassoc
+I (4145879) wifi:state: run -> init (0xd100)
+I (4145889) wifi:pm stop, total sleep time: 688078960 us / 2157808877 us
+
+I (4145889) wifi:<ba-del>idx:0, tid:0
+I (4145889) wifi:new:<13,0>, old:<13,0>, ap:<255,255>, sta:<13,0>, prof:1, snd_ch_cfg:0x0
+W (4145899) NODE1_BASELINE_I2C: Wi-Fi disconnected, trying to reconnect...
+W (4146499) NODE1_BASELINE_I2C: Wi-Fi: disconnected, IP=0.0.0.0
+W (4146499) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4146499) NODE1_BASELINE_I2C: TMP117: 23.24 C
+I (4146499) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1425 A, P=5.350 W
+ROW,4146023,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,0,0.0.0.0,0,disabled,1,1,23.24,1,1,0x40,4.680,1.1425,5.350
+I (4146519) NODE1_BASELINE_I2C: ---
+W (4147529) NODE1_BASELINE_I2C: Wi-Fi: disconnected, IP=0.0.0.0
+W (4147529) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4147529) NODE1_BASELINE_I2C: TMP117: 23.23 C
+I (4147529) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1437 A, P=5.350 W
+ROW,4147053,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,0,0.0.0.0,0,disabled,1,1,23.23,1,1,0x40,4.679,1.1437,5.350
+I (4147549) NODE1_BASELINE_I2C: ---
+W (4148559) NODE1_BASELINE_I2C: Wi-Fi: disconnected, IP=0.0.0.0
+W (4148559) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4148559) NODE1_BASELINE_I2C: TMP117: 23.23 C
+I (4148559) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1450 A, P=5.360 W
+ROW,4148083,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,0,0.0.0.0,0,disabled,1,1,23.23,1,1,0x40,4.679,1.1450,5.360
+I (4148579) NODE1_BASELINE_I2C: ---
+W (4149589) NODE1_BASELINE_I2C: Wi-Fi: disconnected, IP=0.0.0.0
+W (4149589) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4149589) NODE1_BASELINE_I2C: TMP117: 23.23 C
+I (4149589) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1425 A, P=5.350 W
+ROW,4149113,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,0,0.0.0.0,0,disabled,1,1,23.23,1,1,0x40,4.679,1.1425,5.350
+I (4149609) NODE1_BASELINE_I2C: ---
+W (4150309) NODE1_BASELINE_I2C: Wi-Fi disconnected, trying to reconnect...
+W (4150619) NODE1_BASELINE_I2C: Wi-Fi: disconnected, IP=0.0.0.0
+W (4150619) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4150619) NODE1_BASELINE_I2C: TMP117: 23.23 C
+I (4150619) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1425 A, P=5.350 W
+ROW,4150143,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,0,0.0.0.0,0,disabled,1,1,23.23,1,1,0x40,4.679,1.1425,5.350
+I (4150639) NODE1_BASELINE_I2C: ---
+W (4151649) NODE1_BASELINE_I2C: Wi-Fi: disconnected, IP=0.0.0.0
+W (4151649) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4151649) NODE1_BASELINE_I2C: TMP117: 23.23 C
+I (4151649) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1425 A, P=5.350 W
+ROW,4151173,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,0,0.0.0.0,0,disabled,1,1,23.23,1,1,0x40,4.680,1.1425,5.350
+I (4151669) NODE1_BASELINE_I2C: ---
+W (4152679) NODE1_BASELINE_I2C: Wi-Fi: disconnected, IP=0.0.0.0
+W (4152679) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4152679) NODE1_BASELINE_I2C: TMP117: 23.23 C
+I (4152679) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1437 A, P=5.350 W
+ROW,4152203,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,0,0.0.0.0,0,disabled,1,1,23.23,1,1,0x40,4.680,1.1437,5.350
+I (4152699) NODE1_BASELINE_I2C: ---
+W (4153709) NODE1_BASELINE_I2C: Wi-Fi: disconnected, IP=0.0.0.0
+W (4153709) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4153709) NODE1_BASELINE_I2C: TMP117: 23.22 C
+I (4153709) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1437 A, P=5.350 W
+ROW,4153233,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,0,0.0.0.0,0,disabled,1,1,23.22,1,1,0x40,4.679,1.1437,5.350
+I (4153729) NODE1_BASELINE_I2C: ---
+W (4154719) NODE1_BASELINE_I2C: Wi-Fi disconnected, trying to reconnect...
+W (4154739) NODE1_BASELINE_I2C: Wi-Fi: disconnected, IP=0.0.0.0
+W (4154739) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4154739) NODE1_BASELINE_I2C: TMP117: 23.22 C
+I (4154739) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1437 A, P=5.350 W
+ROW,4154263,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,0,0.0.0.0,0,disabled,1,1,23.22,1,1,0x40,4.679,1.1437,5.350
+I (4154759) NODE1_BASELINE_I2C: ---
+W (4155769) NODE1_BASELINE_I2C: Wi-Fi: disconnected, IP=0.0.0.0
+W (4155769) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4155769) NODE1_BASELINE_I2C: TMP117: 23.22 C
+I (4155769) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1437 A, P=5.360 W
+ROW,4155293,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,0,0.0.0.0,0,disabled,1,1,23.22,1,1,0x40,4.679,1.1437,5.360
+I (4155789) NODE1_BASELINE_I2C: ---
+I (4156769) wifi:new:<13,0>, old:<13,0>, ap:<255,255>, sta:<13,0>, prof:1, snd_ch_cfg:0x0
+I (4156769) wifi:state: init -> auth (0xb0)
+I (4156799) wifi:state: auth -> assoc (0x0)
+W (4156799) NODE1_BASELINE_I2C: Wi-Fi: disconnected, IP=0.0.0.0
+W (4156799) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4156799) NODE1_BASELINE_I2C: TMP117: 23.22 C
+I (4156809) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1437 A, P=5.350 W
+I (4156809) wifi:state: assoc -> run (0x10)
+ROW,4156323,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,0,0.0.0.0,0,disabled,1,1,23.22,1,1,0x40,4.680,1.1437,5.350
+I (4156829) NODE1_BASELINE_I2C: ---
+I (4156839) wifi:connected with AttackLabTest, aid = 1, channel 13, BW20, bssid = 00:c0:ca:b9:a0:30
+I (4156839) wifi:security: WPA2-PSK, phy: bgn, rssi: -18
+I (4156849) wifi:pm start, type: 1
+
+I (4156869) wifi:There is no TIM IE in Beacon frame.
+I (4156869) wifi:The router/mobile-hotspot does not follow Wi-Fi protocol.
+I (4156869) wifi:Please report this bug to the manufaturer of the router/mobile-hotspot.
+I (4156879) wifi:And use another outer/mobile-hotspot instead.
+I (4156879) wifi:AP's beacon interval = 102400 us, DTIM period = 1
+W (4157829) NODE1_BASELINE_I2C: Wi-Fi: disconnected, IP=0.0.0.0
+W (4157829) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4157829) NODE1_BASELINE_I2C: TMP117: 23.21 C
+I (4157829) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1450 A, P=5.360 W
+ROW,4157353,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,0,0.0.0.0,0,disabled,1,1,23.21,1,1,0x40,4.679,1.1450,5.360
+I (4157849) NODE1_BASELINE_I2C: ---
+I (4157889) esp_netif_handlers: sta ip: 10.42.0.46, mask: 255.255.255.0, gw: 10.42.0.1
+I (4157889) NODE1_BASELINE_I2C: Wi-Fi connected, IP address: 10.42.0.46
+WIFI_GOT_IP,10.42.0.46
+I (4158859) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4158859) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4158859) NODE1_BASELINE_I2C: TMP117: 23.21 C
+I (4158859) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1437 A, P=5.350 W
+ROW,4158383,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.21,1,1,0x40,4.680,1.1437,5.350
+I (4158879) NODE1_BASELINE_I2C: ---
+I (4159889) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4159889) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4159889) NODE1_BASELINE_I2C: TMP117: 23.20 C
+I (4159889) NODE1_BASELINE_I2C: INA260: V=4.681 V, I=1.1463 A, P=5.360 W
+ROW,4159413,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.20,1,1,0x40,4.681,1.1463,5.360
+I (4159909) NODE1_BASELINE_I2C: ---
+I (4160919) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4160919) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4160919) NODE1_BASELINE_I2C: TMP117: 23.20 C
+I (4160919) NODE1_BASELINE_I2C: INA260: V=4.680 V, I=1.1463 A, P=5.360 W
+ROW,4160443,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.20,1,1,0x40,4.680,1.1463,5.360
+I (4160939) NODE1_BASELINE_I2C: ---
+I (4161949) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46
+W (4161949) NODE1_BASELINE_I2C: BLE: advertising inactive, name=disabled
+I (4161949) NODE1_BASELINE_I2C: TMP117: 23.20 C
+I (4161949) NODE1_BASELINE_I2C: INA260: V=4.679 V, I=1.1463 A, P=5.360 W
+ROW,4161473,node1_baseline_i2c,node1_baseline_v6_csv_wroom32_wifi_only_serialctrl,baseline,1,1,10.42.0.46,0,disabled,1,1,23.20,1,1,0x40,4.679,1.1463,5.360
+I (4161969) NODE1_BASELINE_I2C: ---
+I (4162979) NODE1_BASELINE_I2C: Wi-Fi: connected, IP=10.42.0.46

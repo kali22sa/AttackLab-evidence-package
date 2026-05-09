@@ -1,0 +1,67 @@
+run_id: RUN-20260428-110435-d1b0
+attack_name: wifi_reconnect
+attack_title: Wi-Fi Reconnect
+attack_version: 3.2.0
+scenario: wifi_reconnect
+transport: wifi
+created_at: '2026-04-28T11:04:35.632755'
+target:
+  alias: Node1
+  host: 10.42.0.46
+  target_type: esp32
+  reachability_method: ping
+  ping_count_per_check: 1
+  ping_timeout_seconds: 2
+  stable_success_threshold: 0.7
+observer:
+  ping_count_per_check: 1
+  ping_timeout_seconds: 1
+  stable_success_threshold: 0.8
+timing:
+  baseline_sample_count: 15
+  sample_interval_seconds: 1.0
+  disruption_grace_seconds: 2.0
+  post_stop_grace_seconds: 2.0
+  recovery_safety_max_seconds: 900.0
+  required_consecutive_recovery_successes: 5
+wireless_disruption:
+  mode: external_command
+  interface: ''
+  start_command: nmcli connection down attacklab-ap
+  stop_command: nmcli connection up attacklab-ap
+  command_shell: true
+  startup_grace_seconds: 2.0
+  stop_grace_seconds: 2.0
+recovery:
+  mode: until_baseline_restored
+  required_consecutive_successes: 5
+  max_recovery_seconds: 120
+evaluation:
+  require_baseline_stable: true
+  require_disconnect_observed: true
+  require_reconnect_observed: true
+  minimum_failed_checks_during_attack: 3
+  minimum_recovered_success_ratio: 0.8
+  mark_blocked_if_baseline_unstable: true
+  mark_fail_if_no_disconnect: true
+  mark_fail_if_no_reconnect: true
+serial:
+  enabled: true
+  port: /dev/ttyUSB0
+  baudrate: 115200
+  timeout_seconds: 0.5
+  startup_delay_seconds: 1.5
+  stop_grace_seconds: 0.5
+  filename: serial_output.txt
+testcases:
+- TC-011
+testcase_mapping:
+  jama_folder: WiFi/Reconnect
+  expected_metric: time_to_recovery_seconds
+  acceptance_rule: Baseline stable, disconnect observed during attack, and stable
+    recovery observed
+metadata:
+  description: ESP32-based AttackLab node
+  notes: Automated Wi-Fi reconnect attack using external adapter-driven disruption.
+  environment: attacklab_home_env
+  author: AttackLab

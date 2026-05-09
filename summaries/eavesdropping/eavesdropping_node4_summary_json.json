@@ -1,0 +1,32 @@
+{
+  "run_id": "RUN-20260428-133159-1729",
+  "attack_name": "wifi_eavesdropping",
+  "attack_title": "Wi-Fi Eavesdropping / Packet Capture",
+  "attack_version": "1.5.0",
+  "scenario": "wifi_eavesdropping_capture",
+  "transport": "wifi",
+  "target_alias": "Node4",
+  "target_host": "10.42.0.197",
+  "testcases": [],
+  "testcase_mapping": {
+    "jama_folder": "WiFi/Eavesdropping",
+    "expected_metric": "capture_file_size_bytes",
+    "acceptance_rule": "Capture file successfully created and contains meaningful traffic"
+  },
+  "status": "PASS",
+  "final_status": "PASS",
+  "final_reason": "Capture completed successfully. capture_file_size_bytes=32194",
+  "capture_path": "/home/lino/AttackLab/runs/2026_04_28/RUN-20260428-133159-1729/traffic_capture.pcap",
+  "metrics": {
+    "capture_file_exists": true,
+    "capture_file_size_bytes": 32194,
+    "capture_duration_seconds": 32.002,
+    "traffic_generation_enabled": true,
+    "stop_mode": "time",
+    "requested_packet_count": 200,
+    "packet_goal_reached": false,
+    "idle_timeout_triggered": false,
+    "final_status": "PASS",
+    "final_reason": "Capture completed successfully. capture_file_size_bytes=32194"
+  }
+}

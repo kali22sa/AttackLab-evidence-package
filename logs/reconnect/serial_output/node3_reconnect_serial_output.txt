@@ -1,0 +1,264 @@
+W (29789) NODE3_TRANSIENT_SPI: Command received but BLE is disabled in this build: I (443) efuse_init: Chip revheap_init: Initializing.^T^^R
+I (29819) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (29819) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (29819) NODE3_TRANSIENT_SPI: TMP117: 23.02 C
+I (29819) NODE3_TRANSIENT_SPI: INA260: V=4.589 V I=1.1337 A P=5.200 W
+I (29829) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2124 max=2149] V[min=1.712 mean=1.722 max=1.732]
+ROW,29309,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,23.023,1,1,0x40,4.5887,1.1337,5.200,200,1,2124,2149,1.7116,1.7218,1.7318,2.5828
+I (29859) NODE3_TRANSIENT_SPI: ---
+I (30879) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (30879) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (30879) NODE3_TRANSIENT_SPI: TMP117: 23.02 C
+I (30889) NODE3_TRANSIENT_SPI: INA260: V=4.588 V I=1.1350 A P=5.210 W
+I (30889) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2126 max=2150] V[min=1.713 mean=1.722 max=1.733]
+ROW,30379,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,23.016,1,1,0x40,4.5875,1.1350,5.210,200,1,2126,2150,1.7133,1.7216,1.7326,2.5824
+I (30919) NODE3_TRANSIENT_SPI: ---
+I (31939) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (31939) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (31939) NODE3_TRANSIENT_SPI: TMP117: 23.01 C
+I (31949) NODE3_TRANSIENT_SPI: INA260: V=4.589 V I=1.1337 A P=5.200 W
+I (31949) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2125 max=2147] V[min=1.712 mean=1.722 max=1.730]
+ROW,31439,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,23.008,1,1,0x40,4.5887,1.1337,5.200,200,1,2125,2147,1.7125,1.7217,1.7302,2.5825
+I (31979) NODE3_TRANSIENT_SPI: ---
+I (33009) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (33009) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (33009) NODE3_TRANSIENT_SPI: TMP117: 23.01 C
+I (33019) NODE3_TRANSIENT_SPI: INA260: V=4.589 V I=1.1350 A P=5.210 W
+I (33029) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2124 max=2147] V[min=1.712 mean=1.721 max=1.730]
+ROW,32509,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,23.008,1,1,0x40,4.5887,1.1350,5.210,200,1,2124,2147,1.7116,1.7215,1.7302,2.5822
+I (33049) NODE3_TRANSIENT_SPI: ---
+I (34079) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (34079) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (34079) NODE3_TRANSIENT_SPI: TMP117: 23.00 C
+I (34089) NODE3_TRANSIENT_SPI: INA260: V=4.588 V I=1.1337 A P=5.200 W
+I (34089) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2127 max=2150] V[min=1.714 mean=1.722 max=1.733]
+ROW,33579,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,23.000,1,1,0x40,4.5875,1.1337,5.200,200,1,2127,2150,1.7141,1.7218,1.7326,2.5827
+I (34119) NODE3_TRANSIENT_SPI: ---
+I (35159) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (35159) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (35159) NODE3_TRANSIENT_SPI: TMP117: 22.99 C
+I (35159) NODE3_TRANSIENT_SPI: INA260: V=4.589 V I=1.1337 A P=5.200 W
+I (35169) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2112 max=2145] V[min=1.702 mean=1.721 max=1.729]
+ROW,34649,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.992,1,1,0x40,4.5887,1.1337,5.200,200,1,2112,2145,1.7020,1.7208,1.7286,2.5812
+I (35199) NODE3_TRANSIENT_SPI: ---
+I (36219) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (36219) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (36219) NODE3_TRANSIENT_SPI: TMP117: 22.99 C
+I (36229) NODE3_TRANSIENT_SPI: INA260: V=4.590 V I=1.1350 A P=5.210 W
+I (36229) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2127 max=2146] V[min=1.714 mean=1.722 max=1.729]
+ROW,35719,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.992,1,1,0x40,4.5900,1.1350,5.210,200,1,2127,2146,1.7141,1.7216,1.7294,2.5825
+I (36259) NODE3_TRANSIENT_SPI: ---
+I (37299) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (37299) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (37299) NODE3_TRANSIENT_SPI: TMP117: 23.00 C
+I (37299) NODE3_TRANSIENT_SPI: INA260: V=4.589 V I=1.1325 A P=5.200 W
+I (37309) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2126 max=2147] V[min=1.713 mean=1.722 max=1.730]
+ROW,36789,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,23.000,1,1,0x40,4.5887,1.1325,5.200,200,1,2126,2147,1.7133,1.7217,1.7302,2.5825
+I (37329) NODE3_TRANSIENT_SPI: ---
+I (38359) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (38359) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (38359) NODE3_TRANSIENT_SPI: TMP117: 22.99 C
+I (38369) NODE3_TRANSIENT_SPI: INA260: V=4.590 V I=1.1350 A P=5.210 W
+I (38369) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2121 max=2149] V[min=1.709 mean=1.722 max=1.732]
+ROW,37859,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.992,1,1,0x40,4.5900,1.1350,5.210,200,1,2121,2149,1.7092,1.7216,1.7318,2.5824
+I (38399) NODE3_TRANSIENT_SPI: ---
+I (39429) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (39429) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (39429) NODE3_TRANSIENT_SPI: TMP117: 22.98 C
+I (39439) NODE3_TRANSIENT_SPI: INA260: V=4.591 V I=1.1337 A P=5.210 W
+I (39449) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2127 max=2148] V[min=1.714 mean=1.722 max=1.731]
+ROW,38929,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.984,1,1,0x40,4.5912,1.1337,5.210,200,1,2127,2148,1.7141,1.7218,1.7310,2.5828
+I (39469) NODE3_TRANSIENT_SPI: ---
+I (40499) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (40499) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (40499) NODE3_TRANSIENT_SPI: TMP117: 22.98 C
+I (40509) NODE3_TRANSIENT_SPI: INA260: V=4.590 V I=1.1337 A P=5.210 W
+I (40509) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2127 max=2146] V[min=1.714 mean=1.721 max=1.729]
+ROW,39999,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.984,1,1,0x40,4.5900,1.1337,5.210,200,1,2127,2146,1.7141,1.7214,1.7294,2.5820
+I (40539) NODE3_TRANSIENT_SPI: ---
+I (41569) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (41569) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (41569) NODE3_TRANSIENT_SPI: TMP117: 22.98 C
+I (41579) NODE3_TRANSIENT_SPI: INA260: V=4.591 V I=1.1350 A P=5.210 W
+I (41579) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2126 max=2148] V[min=1.713 mean=1.722 max=1.731]
+ROW,41069,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.984,1,1,0x40,4.5912,1.1350,5.210,200,1,2126,2148,1.7133,1.7219,1.7310,2.5828
+I (41609) NODE3_TRANSIENT_SPI: ---
+I (42639) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (42639) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (42639) NODE3_TRANSIENT_SPI: TMP117: 22.98 C
+I (42649) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1350 A P=5.210 W
+I (42649) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2126 max=2145] V[min=1.713 mean=1.721 max=1.729]
+ROW,42139,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.977,1,1,0x40,4.5925,1.1350,5.210,200,1,2126,2145,1.7133,1.7215,1.7286,2.5822
+I (42679) NODE3_TRANSIENT_SPI: ---
+I (43709) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (43709) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (43709) NODE3_TRANSIENT_SPI: TMP117: 22.98 C
+I (43719) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1350 A P=5.210 W
+I (43719) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2123 max=2151] V[min=1.711 mean=1.722 max=1.733]
+ROW,43209,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.977,1,1,0x40,4.5925,1.1350,5.210,200,1,2123,2151,1.7108,1.7215,1.7334,2.5823
+I (43749) NODE3_TRANSIENT_SPI: ---
+I (44779) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (44789) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (44789) NODE3_TRANSIENT_SPI: TMP117: 22.97 C
+I (44789) NODE3_TRANSIENT_SPI: INA260: V=4.591 V I=1.1350 A P=5.210 W
+I (44799) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2123 max=2175] V[min=1.711 mean=1.721 max=1.753]
+ROW,44279,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.969,1,1,0x40,4.5912,1.1350,5.210,200,1,2123,2175,1.7108,1.7213,1.7527,2.5819
+I (44819) NODE3_TRANSIENT_SPI: ---
+I (45849) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (45849) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (45849) NODE3_TRANSIENT_SPI: TMP117: 22.96 C
+I (45859) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1337 A P=5.210 W
+I (45859) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2124 max=2147] V[min=1.712 mean=1.721 max=1.730]
+ROW,45349,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.961,1,1,0x40,4.5925,1.1337,5.210,200,1,2124,2147,1.7116,1.7209,1.7302,2.5813
+I (45889) NODE3_TRANSIENT_SPI: ---
+I (46499) wifi:starting SA query procedure with AP(00:c0:ca:b9:a0:30)
+I (46509) wifi:Send SA Query req with transaction id a01b
+I (46709) wifi:Send SA Query req with transaction id b41c
+I (46909) wifi:Send SA Query req with transaction id 359b
+I (46929) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (46929) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (46929) NODE3_TRANSIENT_SPI: TMP117: 23.00 C
+I (46939) NODE3_TRANSIENT_SPI: INA260: V=4.591 V I=1.1363 A P=5.220 W
+I (46939) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2048 max=2175] V[min=1.650 mean=1.717 max=1.753]
+ROW,46419,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,23.000,1,1,0x40,4.5912,1.1363,5.220,200,1,2048,2175,1.6504,1.7167,1.7527,2.5750
+I (46969) NODE3_TRANSIENT_SPI: ---
+I (47109) wifi:Send SA Query req with transaction id 99d8
+I (47309) wifi:Send SA Query req with transaction id 48a3
+I (47509) wifi:Send SA Query req with transaction id 83d7
+I (47529) wifi:No response to 6 SA Queries, reset connection sending disassoc
+I (47529) wifi:state: run -> init (0xd100)
+I (47539) wifi:pm stop, total sleep time: 16227180 us / 46612855 us
+
+I (47539) wifi:new:<13,0>, old:<13,0>, ap:<255,255>, sta:<13,0>, prof:1, snd_ch_cfg:0x0
+W (47549) NODE3_TRANSIENT_SPI: Wi-Fi disconnected, trying to reconnect...
+W (47989) NODE3_TRANSIENT_SPI: Wi-Fi: disconnected, IP=0.0.0.0
+W (47989) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (47989) NODE3_TRANSIENT_SPI: TMP117: 23.01 C
+I (47999) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1350 A P=5.210 W
+I (47999) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2124 max=2147] V[min=1.712 mean=1.722 max=1.730]
+ROW,47489,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,0,0.0.0.0,0,disabled,1,1,23.008,1,1,0x40,4.5925,1.1350,5.210,200,1,2124,2147,1.7116,1.7218,1.7302,2.5826
+I (48029) NODE3_TRANSIENT_SPI: ---
+W (49049) NODE3_TRANSIENT_SPI: Wi-Fi: disconnected, IP=0.0.0.0
+W (49049) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (49049) NODE3_TRANSIENT_SPI: TMP117: 22.98 C
+I (49059) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1363 A P=5.220 W
+I (49059) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2126 max=2148] V[min=1.713 mean=1.721 max=1.731]
+ROW,48549,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,0,0.0.0.0,0,disabled,1,1,22.977,1,1,0x40,4.5925,1.1363,5.220,200,1,2126,2148,1.7133,1.7213,1.7310,2.5819
+I (49089) NODE3_TRANSIENT_SPI: ---
+W (50109) NODE3_TRANSIENT_SPI: Wi-Fi: disconnected, IP=0.0.0.0
+W (50109) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (50109) NODE3_TRANSIENT_SPI: TMP117: 22.97 C
+I (50119) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1337 A P=5.210 W
+I (50119) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2124 max=2149] V[min=1.712 mean=1.721 max=1.732]
+ROW,49609,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,0,0.0.0.0,0,disabled,1,1,22.969,1,1,0x40,4.5925,1.1337,5.210,200,1,2124,2149,1.7116,1.7211,1.7318,2.5816
+I (50149) NODE3_TRANSIENT_SPI: ---
+W (51169) NODE3_TRANSIENT_SPI: Wi-Fi: disconnected, IP=0.0.0.0
+W (51169) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (51169) NODE3_TRANSIENT_SPI: TMP117: 22.96 C
+I (51179) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1350 A P=5.210 W
+I (51179) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2124 max=2147] V[min=1.712 mean=1.722 max=1.730]
+ROW,50669,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,0,0.0.0.0,0,disabled,1,1,22.961,1,1,0x40,4.5925,1.1350,5.210,200,1,2124,2147,1.7116,1.7216,1.7302,2.5824
+I (51209) NODE3_TRANSIENT_SPI: ---
+W (51959) NODE3_TRANSIENT_SPI: Wi-Fi disconnected, trying to reconnect...
+W (52229) NODE3_TRANSIENT_SPI: Wi-Fi: disconnected, IP=0.0.0.0
+W (52229) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (52229) NODE3_TRANSIENT_SPI: TMP117: 22.96 C
+I (52239) NODE3_TRANSIENT_SPI: INA260: V=4.594 V I=1.1350 A P=5.210 W
+I (52239) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2127 max=2148] V[min=1.714 mean=1.721 max=1.731]
+ROW,51729,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,0,0.0.0.0,0,disabled,1,1,22.961,1,1,0x40,4.5938,1.1350,5.210,200,1,2127,2148,1.7141,1.7215,1.7310,2.5822
+I (52269) NODE3_TRANSIENT_SPI: ---
+W (53289) NODE3_TRANSIENT_SPI: Wi-Fi: disconnected, IP=0.0.0.0
+W (53289) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (53289) NODE3_TRANSIENT_SPI: TMP117: 22.96 C
+I (53299) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1350 A P=5.210 W
+I (53299) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2127 max=2146] V[min=1.714 mean=1.721 max=1.729]
+ROW,52789,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,0,0.0.0.0,0,disabled,1,1,22.961,1,1,0x40,4.5925,1.1350,5.210,200,1,2127,2146,1.7141,1.7210,1.7294,2.5815
+I (53329) NODE3_TRANSIENT_SPI: ---
+W (54349) NODE3_TRANSIENT_SPI: Wi-Fi: disconnected, IP=0.0.0.0
+W (54349) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (54349) NODE3_TRANSIENT_SPI: TMP117: 22.95 C
+I (54359) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1337 A P=5.210 W
+I (54359) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2126 max=2149] V[min=1.713 mean=1.721 max=1.732]
+ROW,53849,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,0,0.0.0.0,0,disabled,1,1,22.953,1,1,0x40,4.5925,1.1337,5.210,200,1,2126,2149,1.7133,1.7213,1.7318,2.5820
+I (54389) NODE3_TRANSIENT_SPI: ---
+W (55409) NODE3_TRANSIENT_SPI: Wi-Fi: disconnected, IP=0.0.0.0
+W (55409) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (55419) NODE3_TRANSIENT_SPI: TMP117: 22.95 C
+I (55419) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1363 A P=5.220 W
+I (55429) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2119 max=2147] V[min=1.708 mean=1.721 max=1.730]
+ROW,54909,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,0,0.0.0.0,0,disabled,1,1,22.945,1,1,0x40,4.5925,1.1363,5.220,200,1,2119,2147,1.7076,1.7212,1.7302,2.5817
+I (55449) NODE3_TRANSIENT_SPI: ---
+W (56369) NODE3_TRANSIENT_SPI: Wi-Fi disconnected, trying to reconnect...
+W (56479) NODE3_TRANSIENT_SPI: Wi-Fi: disconnected, IP=0.0.0.0
+W (56479) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (56479) NODE3_TRANSIENT_SPI: TMP117: 22.95 C
+I (56489) NODE3_TRANSIENT_SPI: INA260: V=4.591 V I=1.1350 A P=5.210 W
+I (56489) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2126 max=2145] V[min=1.713 mean=1.721 max=1.729]
+ROW,55979,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,0,0.0.0.0,0,disabled,1,1,22.945,1,1,0x40,4.5912,1.1350,5.210,200,1,2126,2145,1.7133,1.7211,1.7286,2.5817
+I (56519) NODE3_TRANSIENT_SPI: ---
+W (57539) NODE3_TRANSIENT_SPI: Wi-Fi: disconnected, IP=0.0.0.0
+W (57539) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (57539) NODE3_TRANSIENT_SPI: TMP117: 22.95 C
+I (57549) NODE3_TRANSIENT_SPI: INA260: V=4.594 V I=1.1363 A P=5.220 W
+I (57549) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2126 max=2146] V[min=1.713 mean=1.721 max=1.729]
+ROW,57039,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,0,0.0.0.0,0,disabled,1,1,22.945,1,1,0x40,4.5938,1.1363,5.220,200,1,2126,2146,1.7133,1.7214,1.7294,2.5821
+I (57579) NODE3_TRANSIENT_SPI: ---
+I (58579) wifi:new:<13,0>, old:<13,0>, ap:<255,255>, sta:<13,0>, prof:1, snd_ch_cfg:0x0
+I (58579) wifi:state: init -> auth (0xb0)
+I (58599) wifi:state: auth -> assoc (0x0)
+I (58609) wifi:state: assoc -> run (0x10)
+W (58619) NODE3_TRANSIENT_SPI: Wi-Fi: disconnected, IP=0.0.0.0
+W (58619) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (58619) NODE3_TRANSIENT_SPI: TMP117: 22.94 C
+I (58619) NODE3_TRANSIENT_SPI: INA260: V=4.594 V I=1.1363 A P=5.220 W
+I (58629) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2048 max=2148] V[min=1.650 mean=1.720 max=1.731]
+I (58639) wifi:connected with AttackLabTest, aid = 2, channel 13, BW20, bssid = 00:c0:ca:b9:a0:30
+I (58649) wifi:security: WPA2-PSK, phy: bgn, rssi: -16
+I (58659) wifi:pm start, type: 1
+
+ROW,58099,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,0,0.0.0.0,0,disabled,1,1,22.938,1,1,0x40,4.5938,1.1363,5.220,200,1,2048,2148,1.6504,1.7199,1.7310,2.5799
+I (58679) NODE3_TRANSIENT_SPI: ---
+I (58679) wifi:There is no TIM IE in Beacon frame.
+I (58679) wifi:The router/mobile-hotspot does not follow Wi-Fi protocol.
+I (58689) wifi:Please report this bug to the manufaturer of the router/mobile-hotspot.
+I (58699) wifi:And use another outer/mobile-hotspot instead.
+I (58699) wifi:AP's beacon interval = 102400 us, DTIM period = 1
+I (59299) wifi:<ba-add>idx:0 (ifx:0, 00:c0:ca:b9:a0:30), tid:0, ssn:10, winSize:64
+W (59699) NODE3_TRANSIENT_SPI: Wi-Fi: disconnected, IP=0.0.0.0
+W (59699) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (59699) NODE3_TRANSIENT_SPI: TMP117: 22.95 C
+I (59709) esp_netif_handlers: sta ip: 10.42.0.196, mask: 255.255.255.0, gw: 10.42.0.1
+I (59719) NODE3_TRANSIENT_SPI: Wi-Fi connected, IP address: 10.42.0.196
+WIFI_GOT_IP,10.42.0.196
+I (59729) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1363 A P=5.220 W
+I (59729) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2124 max=2151] V[min=1.712 mean=1.721 max=1.733]
+ROW,59199,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.945,1,1,0x40,4.5925,1.1363,5.220,200,1,2124,2151,1.7116,1.7213,1.7334,2.5820
+I (59759) NODE3_TRANSIENT_SPI: ---
+I (60789) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (60789) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (60789) NODE3_TRANSIENT_SPI: TMP117: 22.95 C
+I (60789) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1337 A P=5.210 W
+I (60799) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2048 max=2175] V[min=1.650 mean=1.718 max=1.753]
+ROW,60279,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.945,1,1,0x40,4.5925,1.1337,5.210,200,1,2048,2175,1.6504,1.7178,1.7527,2.5767
+I (60829) NODE3_TRANSIENT_SPI: ---
+I (61849) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (61849) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (61849) NODE3_TRANSIENT_SPI: TMP117: 22.95 C
+I (61859) NODE3_TRANSIENT_SPI: INA260: V=4.591 V I=1.1350 A P=5.210 W
+I (61859) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2122 max=2147] V[min=1.710 mean=1.721 max=1.730]
+ROW,61349,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.953,1,1,0x40,4.5912,1.1350,5.210,200,1,2122,2147,1.7100,1.7210,1.7302,2.5815
+I (61889) NODE3_TRANSIENT_SPI: ---
+I (62919) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (62919) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (62919) NODE3_TRANSIENT_SPI: TMP117: 22.96 C
+I (62929) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1363 A P=5.220 W
+I (62929) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2126 max=2147] V[min=1.713 mean=1.721 max=1.730]
+ROW,62419,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.961,1,1,0x40,4.5925,1.1363,5.220,200,1,2126,2147,1.7133,1.7208,1.7302,2.5813
+I (62959) NODE3_TRANSIENT_SPI: ---
+I (63989) NODE3_TRANSIENT_SPI: Wi-Fi: connected, IP=10.42.0.196
+W (63989) NODE3_TRANSIENT_SPI: BLE: advertising inactive, name=disabled
+I (63989) NODE3_TRANSIENT_SPI: TMP117: 22.95 C
+I (63999) NODE3_TRANSIENT_SPI: INA260: V=4.592 V I=1.1350 A P=5.210 W
+I (63999) NODE3_TRANSIENT_SPI: MCP3208 CH0 burst: N=200 raw[min=2126 max=2145] V[min=1.713 mean=1.721 max=1.729]
+ROW,63489,node3_transient_spi,node3_transient_spi_v3_csv_wroom32_wifi_only_serialctrl,baseline,1,1,1,10.42.0.196,0,disabled,1,1,22.945,1,1,0x40,4.5925,1.1350,5.210,200,1,2126,2145,1.7133,1.7212,1.7286,2.5818
+I (64029) NODE3_TRANSIENT_SPI: ---

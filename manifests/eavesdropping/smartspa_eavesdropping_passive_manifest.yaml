@@ -1,0 +1,48 @@
+run_id: RUN-20260430-091317-1ffa
+attack_name: wifi_eavesdropping
+attack_title: Wi-Fi Eavesdropping / Packet Capture
+attack_version: 1.5.0
+scenario: wifi_eavesdropping_capture
+transport: wifi
+created_at: '2026-04-30T09:13:17.197524'
+target:
+  alias: SmartSpa
+  host: 10.42.0.97
+  target_type: smartspa_iot
+  serial_capture_enabled: false
+  reachability_method: ping
+  ping_count_per_check: 1
+  ping_timeout_seconds: 2
+  stable_success_threshold: 0.7
+timing:
+  init_seconds: 3
+capture:
+  interface: wlan1
+  capture_filename: traffic_capture.pcap
+  stop_condition:
+    mode: time
+    capture_seconds: 30
+    packet_count: 200
+    idle_timeout_seconds: 60
+traffic_generation:
+  enabled: false
+  mode: ping
+  interval_seconds: 0.2
+evaluation:
+  require_capture_file: true
+  minimum_capture_file_size_bytes: 500
+  mark_fail_if_capture_missing: true
+testcases: []
+testcase_mapping:
+  jama_folder: WiFi/Eavesdropping
+  expected_metric: capture_file_size_bytes
+  acceptance_rule: Capture file successfully created and contains meaningful traffic
+metadata:
+  description: SmartSpa device used in company-side verification
+  notes: Automated Wi-Fi packet capture scenario.
+  environment: smartspa_company_env
+  author: AttackLab
+run_output:
+  events_filename: wifi_eavesdropping_events.jsonl
+  log_filename: wifi_eavesdropping_log.txt
+  summary_filename: wifi_eavesdropping_summary.json

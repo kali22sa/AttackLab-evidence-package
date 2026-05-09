@@ -1,0 +1,29 @@
+[2026-04-30T09:13:17.197146] ========================================================================
+[2026-04-30T09:13:17.197272] AttackLab - Wi-Fi Eavesdropping Capture
+[2026-04-30T09:13:17.197306] Run ID        : RUN-20260430-091317-1ffa
+[2026-04-30T09:13:17.197330] Run sequence  : 1/5
+[2026-04-30T09:13:17.197354] Run directory : /home/lino/AttackLab/runs/2026_04_30/2026_04_30_smartspa/RUN-20260430-091317-1ffa
+[2026-04-30T09:13:17.197376] Target alias  : SmartSpa
+[2026-04-30T09:13:17.197396] Target host   : 10.42.0.97
+[2026-04-30T09:13:17.197417] Interface     : wlan1
+[2026-04-30T09:13:17.197436] Scenario      : wifi_eavesdropping_capture
+[2026-04-30T09:13:17.197455] Transport     : wifi
+[2026-04-30T09:13:17.197478] Testcases     : []
+[2026-04-30T09:13:17.197498] ========================================================================
+[2026-04-30T09:13:17.200670] Manifest written to: /home/lino/AttackLab/runs/2026_04_30/2026_04_30_smartspa/RUN-20260430-091317-1ffa/manifest.yaml
+[2026-04-30T09:13:17.200978] PHASE=init TYPE=capture_init MESSAGE=Initializing Wi-Fi eavesdropping capture controller. EXTRA={'target_alias': 'SmartSpa', 'target_host': '10.42.0.97', 'capture_path': '/home/lino/AttackLab/runs/2026_04_30/2026_04_30_smartspa/RUN-20260430-091317-1ffa/traffic_capture.pcap'}
+[2026-04-30T09:13:17.201070] PHASE=init TYPE=sleep MESSAGE=Waiting 3 seconds. EXTRA={}
+[2026-04-30T09:13:20.201328] PHASE=capture TYPE=phase_start MESSAGE=Starting packet capture phase. EXTRA={}
+[2026-04-30T09:13:20.201380] Starting Wi-Fi eavesdropping capture to: /home/lino/AttackLab/runs/2026_04_30/2026_04_30_smartspa/RUN-20260430-091317-1ffa/traffic_capture.pcap
+[2026-04-30T09:13:20.201440] PHASE=capture TYPE=capture_mode MESSAGE=Configured capture stop condition. EXTRA={'mode': 'time', 'capture_seconds': 30}
+[2026-04-30T09:13:20.201494] PHASE=capture TYPE=engine_start MESSAGE=Starting capture command. EXTRA={'command': 'sudo timeout 30 tcpdump -i wlan1 -w /home/lino/AttackLab/runs/2026_04_30/2026_04_30_smartspa/RUN-20260430-091317-1ffa/traffic_capture.pcap', 'command_shell': True}
+[2026-04-30T09:13:20.202533] PHASE=capture TYPE=startup_grace MESSAGE=Waiting 2.0 seconds after starting capture. EXTRA={}
+[2026-04-30T09:13:22.202880] PHASE=capture TYPE=capture_observation MESSAGE=Capture running for 30 seconds. EXTRA={}
+[2026-04-30T09:13:52.213802] PHASE=capture TYPE=capture_stop MESSAGE=Stopping packet capture. EXTRA={}
+[2026-04-30T09:13:52.213959] PHASE=stop TYPE=stop_grace MESSAGE=Waiting 1.0 seconds after stopping capture. EXTRA={}
+[2026-04-30T09:13:53.214311] PHASE=stop TYPE=capture_complete MESSAGE=Wi-Fi eavesdropping capture scenario completed. EXTRA={'final_status': 'PASS', 'final_reason': 'Capture completed successfully. capture_file_size_bytes=925', 'capture_file_size_bytes': 925, 'capture_duration_seconds': 32.012, 'packet_goal_reached': False, 'idle_timeout_triggered': False}
+[2026-04-30T09:13:53.214378] Wi-Fi eavesdropping capture finished. Capture file: /home/lino/AttackLab/runs/2026_04_30/2026_04_30_smartspa/RUN-20260430-091317-1ffa/traffic_capture.pcap
+[2026-04-30T09:13:53.220951] Checksums written to: /home/lino/AttackLab/runs/2026_04_30/2026_04_30_smartspa/RUN-20260430-091317-1ffa/checksums.sha256
+[2026-04-30T09:13:53.221006] Summary written to: /home/lino/AttackLab/runs/2026_04_30/2026_04_30_smartspa/RUN-20260430-091317-1ffa/wifi_eavesdropping_summary.json
+[2026-04-30T09:13:53.221036] Readable summary written to: /home/lino/AttackLab/runs/2026_04_30/2026_04_30_smartspa/RUN-20260430-091317-1ffa/wifi_eavesdropping_summary_readable.txt
+[2026-04-30T09:13:53.221064] Run completed with status: PASS

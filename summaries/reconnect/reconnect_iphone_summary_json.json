@@ -1,0 +1,40 @@
+{
+  "run_id": "RUN-20260428-135004-e154",
+  "attack_name": "wifi_reconnect",
+  "attack_title": "Wi-Fi Reconnect",
+  "attack_version": "3.2.0",
+  "scenario": "wifi_reconnect",
+  "transport": "wifi",
+  "target_alias": "Iphone",
+  "target_host": "10.42.0.78",
+  "testcases": [
+    "TC-011"
+  ],
+  "testcase_mapping": {
+    "jama_folder": "WiFi/Reconnect",
+    "expected_metric": "time_to_recovery_seconds",
+    "acceptance_rule": "Baseline stable, disconnect observed during attack, and stable recovery observed"
+  },
+  "status": "PASS",
+  "final_status": "PASS",
+  "final_reason": "Disconnect observed and stable recovery measured. time_to_recovery_seconds=16.421",
+  "metrics": {
+    "baseline_checks": 15,
+    "baseline_successful_checks": 15,
+    "baseline_availability_ratio": 1.0,
+    "baseline_avg_latency_ms": 20.3627,
+    "baseline_ok": true,
+    "attack_checks": 3,
+    "attack_success": 3,
+    "disconnect_observed": true,
+    "recovery_checks": 11,
+    "recovery_successful_checks": 5,
+    "recovery_success_ratio": 0.4545,
+    "reconnect_observed": true,
+    "recovery_completed": true,
+    "time_to_first_response_seconds": 12.016,
+    "time_to_recovery_seconds": 16.421,
+    "final_status": "PASS",
+    "final_reason": "Disconnect observed and stable recovery measured. time_to_recovery_seconds=16.421"
+  }
+}

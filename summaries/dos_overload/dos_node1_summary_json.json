@@ -1,0 +1,47 @@
+{
+  "run_id": "RUN-20260428-110548-cb8d",
+  "attack_name": "wifi_dos",
+  "attack_title": "Wi-Fi DoS",
+  "attack_version": "2.3.0",
+  "scenario": "wifi_dos",
+  "transport": "wifi",
+  "target_alias": "Node1",
+  "target_host": "10.42.0.46",
+  "testcases": [
+    "TC-021"
+  ],
+  "testcase_mapping": {
+    "jama_folder": "WiFi/DoS",
+    "expected_metric": "time_to_recovery_seconds",
+    "acceptance_rule": "Baseline stable, observable attack effect, and stable post-attack recovery observed"
+  },
+  "status": "PASS",
+  "final_status": "PASS",
+  "final_reason": "Observable Wi-Fi DoS effect measured and stable recovery observed. attack_success=18, time_to_recovery_seconds=4.484",
+  "metrics": {
+    "baseline_checks": 15,
+    "baseline_successful_checks": 15,
+    "baseline_availability_ratio": 1.0,
+    "attack_checks": 20,
+    "attack_success": 18,
+    "attack_failed": 2,
+    "attack_availability_ratio": 0.1,
+    "availability_drop_ratio": 0.9,
+    "baseline_avg_latency_ms": 24.1433,
+    "attack_avg_latency_ms": 242.5,
+    "latency_increase_ratio": 10.0442,
+    "impact_start_offset_seconds": 1.0,
+    "impact_duration_seconds": 20.0,
+    "attack_effect_observed": true,
+    "post_attack_checks": 5,
+    "post_attack_successful_checks": 5,
+    "post_attack_availability_ratio": 1.0,
+    "recovery_completed": true,
+    "time_to_first_response_seconds": 0.361,
+    "time_to_recovery_seconds": 4.484,
+    "baseline_ok": true,
+    "latency_effect_observed": true,
+    "final_status": "PASS",
+    "final_reason": "Observable Wi-Fi DoS effect measured and stable recovery observed. attack_success=18, time_to_recovery_seconds=4.484"
+  }
+}

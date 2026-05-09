@@ -1,0 +1,28 @@
+[2026-04-28T14:03:00.931300] ========================================================================
+[2026-04-28T14:03:00.931402] AttackLab - Wi-Fi Eavesdropping Capture
+[2026-04-28T14:03:00.931429] Run ID        : RUN-20260428-140300-8dd1
+[2026-04-28T14:03:00.931448] Run directory : /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-140300-8dd1
+[2026-04-28T14:03:00.931464] Target alias  : Iphone
+[2026-04-28T14:03:00.931481] Target host   : 10.42.0.78
+[2026-04-28T14:03:00.931497] Interface     : wlan1
+[2026-04-28T14:03:00.931512] Scenario      : wifi_eavesdropping_capture
+[2026-04-28T14:03:00.931529] Transport     : wifi
+[2026-04-28T14:03:00.931547] Testcases     : []
+[2026-04-28T14:03:00.931562] ========================================================================
+[2026-04-28T14:03:00.933817] Manifest written to: /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-140300-8dd1/manifest.yaml
+[2026-04-28T14:03:00.934045] PHASE=init TYPE=capture_init MESSAGE=Initializing Wi-Fi eavesdropping capture controller. EXTRA={'target_alias': 'Iphone', 'target_host': '10.42.0.78', 'capture_path': '/home/lino/AttackLab/runs/2026_04_28/RUN-20260428-140300-8dd1/traffic_capture.pcap'}
+[2026-04-28T14:03:00.934106] PHASE=init TYPE=sleep MESSAGE=Waiting 3 seconds. EXTRA={}
+[2026-04-28T14:03:03.934348] PHASE=capture TYPE=phase_start MESSAGE=Starting packet capture phase. EXTRA={}
+[2026-04-28T14:03:03.934400] Starting Wi-Fi eavesdropping capture to: /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-140300-8dd1/traffic_capture.pcap
+[2026-04-28T14:03:03.934460] PHASE=capture TYPE=capture_mode MESSAGE=Configured capture stop condition. EXTRA={'mode': 'time', 'capture_seconds': 30}
+[2026-04-28T14:03:03.934514] PHASE=capture TYPE=engine_start MESSAGE=Starting capture command. EXTRA={'command': 'sudo timeout 30 tcpdump -i wlan1 -w /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-140300-8dd1/traffic_capture.pcap', 'command_shell': True}
+[2026-04-28T14:03:03.937076] PHASE=capture TYPE=startup_grace MESSAGE=Waiting 2.0 seconds after starting capture. EXTRA={}
+[2026-04-28T14:03:05.937403] PHASE=capture TYPE=capture_observation MESSAGE=Capture running for 30 seconds. EXTRA={}
+[2026-04-28T14:03:35.945149] PHASE=capture TYPE=capture_stop MESSAGE=Stopping packet capture. EXTRA={}
+[2026-04-28T14:03:35.945301] PHASE=stop TYPE=stop_grace MESSAGE=Waiting 1.0 seconds after stopping capture. EXTRA={}
+[2026-04-28T14:03:36.945716] PHASE=stop TYPE=capture_complete MESSAGE=Wi-Fi eavesdropping capture scenario completed. EXTRA={'final_status': 'PASS', 'final_reason': 'Capture completed successfully. capture_file_size_bytes=13602772', 'capture_file_size_bytes': 13602772, 'capture_duration_seconds': 32.011, 'packet_goal_reached': False, 'idle_timeout_triggered': False}
+[2026-04-28T14:03:36.945800] Wi-Fi eavesdropping capture finished. Capture file: /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-140300-8dd1/traffic_capture.pcap
+[2026-04-28T14:03:36.971259] Checksums written to: /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-140300-8dd1/checksums.sha256
+[2026-04-28T14:03:36.971363] Summary written to: /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-140300-8dd1/wifi_eavesdropping_summary.json
+[2026-04-28T14:03:36.971410] Readable summary written to: /home/lino/AttackLab/runs/2026_04_28/RUN-20260428-140300-8dd1/wifi_eavesdropping_summary_readable.txt
+[2026-04-28T14:03:36.971441] Run completed with status: PASS
